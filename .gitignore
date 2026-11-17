@@ -1,0 +1,14 @@
+# Keep reference media, machine drafts, models and credentials local
+media/
+attachments/
+work/
+analysis/*-evidence/
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
+.env
+.env.*
+__pycache__/
+.DS_Store
