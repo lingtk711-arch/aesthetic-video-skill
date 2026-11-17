@@ -14,6 +14,7 @@ description: 根据21条seeuLook样本的交叉证据，为野桃的小红书和
 2. `references/voice-and-language-v0.4.md`：完整口播的句段语法。
 3. `references/visual-editing-v0.4.md`：素材角色、组合、效果、声音执行。
 4. `references/generation-contract.md`：交付要求。
+5. `references/recommendation-speech-study.md`：原片如何把风格融入具体推荐，写穿搭段前必读。
 
 核对来源时读仓库`analysis/cross-video-audit-v0.4.md`，机器可读映射见`analysis/creative-rules-v0.4.json`。完整原创试运行见`examples/sharp-without-tension-v0.4.md`。旧black-coat示例只示范制作表格式，不作为账号风格提炼证据。旧版通用配方仅供执行选用，与v0.4冲突时以v0.4为准。
 
