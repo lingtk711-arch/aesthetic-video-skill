@@ -1,0 +1,993 @@
+[
+  {
+    "video_id": 1,
+    "file": "33f457cc698d1a4a2614f3531cadab52.mp4",
+    "topic": "城市与审美排序",
+    "creative_thesis": "城市不是背景，是评价同一身衣服的坐标系。",
+    "branch": "城市/社会语境",
+    "rules": [
+      "E7",
+      "E10"
+    ],
+    "functional_chain": "生活控制权→不同城市的得体标准→相互误读→把评价放回语境",
+    "anchors": [
+      {
+        "seconds": 22.0,
+        "observation": "作者出镜，谈松弛",
+        "interpretation": "解释概念，而非继续堆城市照片"
+      },
+      {
+        "seconds": 36.0,
+        "observation": "街头两人拿饮品、穿着休闲",
+        "interpretation": "让生活节奏控制权获得日常场景"
+      },
+      {
+        "seconds": 40.0,
+        "observation": "黑色正装、手提包、建筑背景",
+        "interpretation": "与休闲图形成另一种得体秩序"
+      },
+      {
+        "seconds": 66.0,
+        "observation": "街上人物背影",
+        "interpretation": "将换城市后的不适放回社会环境"
+      },
+      {
+        "seconds": 100.0,
+        "observation": "照片背景上叠比较表",
+        "interpretation": "把前面感性判断整理成可对照维度"
+      },
+      {
+        "seconds": 168.0,
+        "observation": "黑白山景、白裙人物舒展双臂",
+        "interpretation": "用身体与空间表达文艺/精神想象"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 2,
+    "file": "a9e49444c957848ca19bc59c17025c35.mp4",
+    "topic": "养胃感与人间失活",
+    "creative_thesis": "遮蔽与游离可以构成边界感，但不能把鲜活全部拿走。",
+    "branch": "情绪人物/分级",
+    "rules": [
+      "E1",
+      "E2",
+      "E3",
+      "E6"
+    ],
+    "functional_chain": "挑衅命名→重新定义→遮挡线索→童趣反例→中性与蕾丝→瑕疵接纳",
+    "anchors": [
+      {
+        "seconds": 28.0,
+        "observation": "黑色吊带人物与人物分级标题",
+        "interpretation": "先建立角色，再细分穿着信号"
+      },
+      {
+        "seconds": 58.0,
+        "observation": "深色帽子、贴近的双人近景",
+        "interpretation": "弱化正面展示的社交姿态"
+      },
+      {
+        "seconds": 64.0,
+        "observation": "帽/口罩遮脸、条纹包、宽松衣服",
+        "interpretation": "对应口播把遮挡解释成与外界的墙"
+      },
+      {
+        "seconds": 78.0,
+        "observation": "羽绒服、帽子与笑脸",
+        "interpretation": "反例：游离不等于不准快乐"
+      },
+      {
+        "seconds": 100.0,
+        "observation": "宽松中性外层与领带/蕾丝细节",
+        "interpretation": "同一身中保留相反的性别编码"
+      },
+      {
+        "seconds": 118.0,
+        "observation": "人物素材上有橙色漏光边缘",
+        "interpretation": "在接纳瑕疵的收尾保留影像质感；不推断插件名"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 3,
+    "file": "d0cebef7a9cc89f292f11050d0b8f0e1.mp4",
+    "topic": "无性别风",
+    "creative_thesis": "中性不是单向加强硬度，而是减少证明性别的用力。",
+    "branch": "概念纠偏",
+    "rules": [
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "functional_chain": "否定刻板中性→基础衣物→发型与行为→空间/轻薄→彩色反例",
+    "anchors": [
+      {
+        "seconds": 36.0,
+        "observation": "白T、黑长裙、帽子、几何包、抱臂",
+        "interpretation": "模糊编码以整个人的状态成立"
+      },
+      {
+        "seconds": 62.0,
+        "observation": "长刘海人物面部近景、手靠近脸",
+        "interpretation": "把发型作为可见机制，而非一直全身"
+      },
+      {
+        "seconds": 70.0,
+        "observation": "波点围巾、圆眼镜、闭眼户外人物",
+        "interpretation": "状态词由姿态承接"
+      },
+      {
+        "seconds": 92.0,
+        "observation": "黑色轻薄长衣的镜中全身",
+        "interpretation": "表达无束缚而非盔甲感"
+      },
+      {
+        "seconds": 118.0,
+        "observation": "宽松蓝灰褶皱上衣、软帽",
+        "interpretation": "衣内余量使晃动空间可见"
+      },
+      {
+        "seconds": 138.0,
+        "observation": "亮紫裤与彩色垂坠衣物",
+        "interpretation": "反证无性别不必全黑/灰"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 4,
+    "file": "4aac4bf62c1899cac40159ed00673aa4.mp4",
+    "topic": "性感原型与香氛",
+    "creative_thesis": "借人物的控制/欲望张力，建立产品的感官解释。",
+    "branch": "产品/感官桥接",
+    "rules": [
+      "E3",
+      "E8"
+    ],
+    "functional_chain": "人物原型差异→品牌设计→香氛→气味时间过程",
+    "anchors": [
+      {
+        "seconds": 20.0,
+        "observation": "金敏喜咖啡馆近景、深色外套",
+        "interpretation": "以表情和生活距离建立含蓄原型"
+      },
+      {
+        "seconds": 28.0,
+        "observation": "朱莉黑V领与克制表情",
+        "interpretation": "换成更有支配意味的人物原型"
+      },
+      {
+        "seconds": 38.0,
+        "observation": "室内黑裙人物展臂",
+        "interpretation": "身体动作承接欲望表达"
+      },
+      {
+        "seconds": 54.0,
+        "observation": "红色高跟鞋特写",
+        "interpretation": "从人物转入可识别的性感符号"
+      },
+      {
+        "seconds": 76.0,
+        "observation": "紫粉色Tom Ford瓶身",
+        "interpretation": "产品在语义桥搭好后出现；商业合作未知"
+      },
+      {
+        "seconds": 94.0,
+        "observation": "剖开的无花果",
+        "interpretation": "用真实物象承接甜/咸、果肉等感官描述"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 5,
+    "file": "9f1059c013b5cb24f0d4ff283a2e84d3.mp4",
+    "topic": "疲惫风的人设入口",
+    "creative_thesis": "先代入角色，再决定疲态由什么服饰与环境托住。",
+    "branch": "情绪人物/双分支",
+    "rules": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "functional_chain": "疲态重新命名→人设先行→娃娃路线→文艺路线→拒绝同款复制",
+    "anchors": [
+      {
+        "seconds": 30.0,
+        "observation": "暗色刘海女孩横幅素材",
+        "interpretation": "字幕强调先代入人设，非先购物"
+      },
+      {
+        "seconds": 48.0,
+        "observation": "短发眼镜女孩、阅读灯阴影",
+        "interpretation": "脸部光线解释眼圈/眼窝的视觉状态"
+      },
+      {
+        "seconds": 60.0,
+        "observation": "浅色蕾丝、水钻、珍珠等饰品",
+        "interpretation": "用轻巧精致缓和疲惫"
+      },
+      {
+        "seconds": 80.0,
+        "observation": "浅裙人物蹲在旧白墙旁、低头",
+        "interpretation": "洁净与疲态同时存在"
+      },
+      {
+        "seconds": 98.0,
+        "observation": "深针织人物在咖啡馆闭眼放松",
+        "interpretation": "第二角色切换到省力、舒适"
+      },
+      {
+        "seconds": 124.0,
+        "observation": "黑白表演素材上下重复排版",
+        "interpretation": "在人格收束处使用情绪素材，不等于逐条服饰教程"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 6,
+    "file": "7df837fb7e582264210f208e4f23c958.mp4",
+    "topic": "冷都女与grunge",
+    "creative_thesis": "同样的冷天，可以内收成理智，也可以外放成反叛。",
+    "branch": "双气质对照",
+    "rules": [
+      "E3",
+      "E4",
+      "E7"
+    ],
+    "functional_chain": "气候身体反应→理智冷都女→软硬平衡→环境同色→爆发型分支",
+    "anchors": [
+      {
+        "seconds": 32.0,
+        "observation": "皮衣、窄裤、靴、大围巾；01标题",
+        "interpretation": "整套角色先于拆单品"
+      },
+      {
+        "seconds": 66.0,
+        "observation": "凯拉奈特莉深针织与大布包",
+        "interpretation": "人物承担清醒理智的命名"
+      },
+      {
+        "seconds": 82.0,
+        "observation": "硬皮衣、软条纹针织、围巾",
+        "interpretation": "硬与软是同图中的关系"
+      },
+      {
+        "seconds": 94.0,
+        "observation": "绿帽、绿针织与森绿标注",
+        "interpretation": "色调有绿色，不能概括全号只用冷灰"
+      },
+      {
+        "seconds": 128.0,
+        "observation": "朋克女孩印花T、表情张扬",
+        "interpretation": "用另一种情绪强度打开第二分支"
+      },
+      {
+        "seconds": 144.0,
+        "observation": "黑衣、骷髅、珍珠与手环叠戴",
+        "interpretation": "配饰密度服务反叛角色"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 7,
+    "file": "96810f83001dc2cdb1a10dd1ca3ae5eb.mp4",
+    "topic": "冷帽、旧物与个人信号",
+    "creative_thesis": "遮挡与旧物让外在选择像一种对世界的态度。",
+    "branch": "符号解释",
+    "rules": [
+      "E1",
+      "E4",
+      "E6"
+    ],
+    "functional_chain": "内在稳定→帽子遮眼→替代穿法→旧物时间→新旧/刚柔平衡",
+    "anchors": [
+      {
+        "seconds": 28.0,
+        "observation": "深冷帽压眼、白上衣与宽牛仔",
+        "interpretation": "闭麦/遮挡的比喻有形态依据"
+      },
+      {
+        "seconds": 62.0,
+        "observation": "皮带、休闲外套与露出内搭",
+        "interpretation": "给同一状态提供替代操作"
+      },
+      {
+        "seconds": 80.0,
+        "observation": "黑衣滑板人物、荧光色鞋",
+        "interpretation": "穿搭公式落到运动和街头状态"
+      },
+      {
+        "seconds": 114.0,
+        "observation": "深色针织外层与浅裙，叠词刚柔交织",
+        "interpretation": "用相反材质/形态避免一味沉重"
+      },
+      {
+        "seconds": 134.0,
+        "observation": "浅羽绒服、动漫图案，痛文化标题",
+        "interpretation": "兴趣符号也能进入个人风格"
+      },
+      {
+        "seconds": 148.0,
+        "observation": "黄毛绒外套、镜自拍、随意表情",
+        "interpretation": "收束为穿搭传递个人信号"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 8,
+    "file": "6203694cb8ccc818de06623f8b47bb8b.mp4",
+    "topic": "自我风格与反义词",
+    "creative_thesis": "找到喜欢的风格后，还要找到它需要的反义词。",
+    "branch": "方法/自我筛选",
+    "rules": [
+      "E2",
+      "E3",
+      "E10"
+    ],
+    "functional_chain": "解释偏好→识别恐惧型选择→条件化筛选→反义词组合",
+    "anchors": [
+      {
+        "seconds": 54.0,
+        "observation": "黑底step1文字卡",
+        "interpretation": "从人物例证切到方法层"
+      },
+      {
+        "seconds": 70.0,
+        "observation": "宽松灰背心、长裤的街拍人物",
+        "interpretation": "让自我需求有具体穿着投射"
+      },
+      {
+        "seconds": 88.0,
+        "observation": "短上衣、眼镜、旧牛仔的人物",
+        "interpretation": "把过往/恐惧讨论与一个角色相连；心理因果未证实"
+      },
+      {
+        "seconds": 112.0,
+        "observation": "冷帽、皮衣、旧牛仔、街景",
+        "interpretation": "第二步前保留人物连续性"
+      },
+      {
+        "seconds": 128.0,
+        "observation": "黑色长清单卡叠在人物照片上",
+        "interpretation": "收藏层与口播层同时存在，不能全塞进字幕"
+      },
+      {
+        "seconds": 180.0,
+        "observation": "橙发人物抓地铁扶手、白短上衣",
+        "interpretation": "越过单一规训的姿态；约186–188s出现本命风格加反义词的文字线索"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 9,
+    "file": "e990f867adf661c05847828a3e786f66.mp4",
+    "topic": "中西部情绪与穿搭",
+    "creative_thesis": "先创造一种生活，再让衣服成为那种生活的残留。",
+    "branch": "世界构建",
+    "rules": [
+      "E5",
+      "E7"
+    ],
+    "functional_chain": "逃离角落→环境与时间→生活物件→旧衣→音乐文化→个人生活",
+    "anchors": [
+      {
+        "seconds": 30.0,
+        "observation": "草地上两双帆布鞋/裤脚近景",
+        "interpretation": "先交代日常关系与触感"
+      },
+      {
+        "seconds": 54.0,
+        "observation": "树林草地上坐着摆弄物品的人",
+        "interpretation": "闲置的时间比单品更先建立氛围"
+      },
+      {
+        "seconds": 80.0,
+        "observation": "古着店乐队T、章节标题",
+        "interpretation": "衣物是生活和文化的结果"
+      },
+      {
+        "seconds": 112.0,
+        "observation": "坐姿人物、牛仔与生活物件",
+        "interpretation": "DV/CD叙述以生活状态承接"
+      },
+      {
+        "seconds": 122.0,
+        "observation": "Fugazi乐队黑白图与情绪摇滚标题",
+        "interpretation": "是文化说明，不能据此认定实际BGM"
+      },
+      {
+        "seconds": 144.0,
+        "observation": "户外背包与物品放在长凳上",
+        "interpretation": "用可被代入的日记式小物替代大片摆拍"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 10,
+    "file": "558e349c6694a7a0ab3da5d0b31d39c6.mp4",
+    "topic": "吉赛尔：克制与生命力",
+    "creative_thesis": "吸引力来自克制边界内仍在流动的生命力。",
+    "branch": "人物深描",
+    "rules": [
+      "E3",
+      "E4",
+      "E6"
+    ],
+    "functional_chain": "吸引力谜题→人物反差→剪裁与身体动态→生活秩序→消费边界",
+    "anchors": [
+      {
+        "seconds": 50.0,
+        "observation": "灰外套、白贴身上衣、牛仔、皮包",
+        "interpretation": "性感停在克制边缘，非最大露肤"
+      },
+      {
+        "seconds": 70.0,
+        "observation": "深外套、眼镜、硬挺大包",
+        "interpretation": "把内收侵略感迁移到职场器物"
+      },
+      {
+        "seconds": 90.0,
+        "observation": "白色轻薄裙走秀、裙摆流动",
+        "interpretation": "身体被布料和动作间接显现"
+      },
+      {
+        "seconds": 106.0,
+        "observation": "高领无袖黑色秀场造型",
+        "interpretation": "肩骨/大臂转角成为视线机制"
+      },
+      {
+        "seconds": 124.0,
+        "observation": "黑色高领长裙与大字生命熵增",
+        "interpretation": "概念落到衣物运动，但术语不是科学论证"
+      },
+      {
+        "seconds": 174.0,
+        "observation": "运动服、牵狗、行走",
+        "interpretation": "以日常自足收住秀场欲望"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 11,
+    "file": "bef1e81734995d14c16f7da0a58fd921.mp4",
+    "topic": "倦容美人与省力穿搭",
+    "creative_thesis": "不掩去生活磨损，反而可以让风格更像一个活人。",
+    "branch": "情绪人物/落地配饰",
+    "rules": [
+      "E1",
+      "E4",
+      "E6"
+    ],
+    "functional_chain": "素颜疲态→角色共鸣→贝拉单品→成熟省力→瑕疵时间→小配饰",
+    "anchors": [
+      {
+        "seconds": 18.0,
+        "observation": "作者持杯出镜、泪沟黑眼圈转标签大字",
+        "interpretation": "由作者承担重新解释的判断"
+      },
+      {
+        "seconds": 54.0,
+        "observation": "贝拉格纹衬衣、蓝绿环境",
+        "interpretation": "具体影视人物兑现倦容的视觉预期"
+      },
+      {
+        "seconds": 86.0,
+        "observation": "作者出镜谈倦怠",
+        "interpretation": "由案例转回观众处境"
+      },
+      {
+        "seconds": 118.0,
+        "observation": "作者继续解释关键思路",
+        "interpretation": "不是强制每句换素材；概念可由人连续讲清"
+      },
+      {
+        "seconds": 140.0,
+        "observation": "作者出镜、包容折痕掉屑印花文字",
+        "interpretation": "磨损升格为时间痕迹，镜头仍留给解释者"
+      },
+      {
+        "seconds": 174.0,
+        "observation": "白衣人物、有线耳机、冷人配饰标题",
+        "interpretation": "配饰被解释成距离与线的关系，而非购物清单"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 12,
+    "file": "e0e73435fee84ab6b914b87ab24de9cc.mp4",
+    "topic": "两种清冷：文淇与郑恩彩",
+    "creative_thesis": "同一个清冷词，可以是感性包裹，也可以是理智筋骨。",
+    "branch": "双人物对照",
+    "rules": [
+      "E2",
+      "E3",
+      "E5"
+    ],
+    "functional_chain": "清冷误解→鲜活文艺角色→环境行为→理智角色→线条/品牌落地",
+    "anchors": [
+      {
+        "seconds": 30.0,
+        "observation": "唱片/展陈空间里的人物侧面",
+        "interpretation": "清冷没有排除人间烟火"
+      },
+      {
+        "seconds": 42.0,
+        "observation": "水边用相机的人物、植物色系标题",
+        "interpretation": "颜色由环境和兴趣一同定义"
+      },
+      {
+        "seconds": 60.0,
+        "observation": "光影中面部近景",
+        "interpretation": "氛围由光和行为辐射，非颜色一项"
+      },
+      {
+        "seconds": 80.0,
+        "observation": "站台里旧感长大衣人物",
+        "interpretation": "进入品牌/服装时仍保留旅行角色"
+      },
+      {
+        "seconds": 130.0,
+        "observation": "束腰风衣、短发人物",
+        "interpretation": "第二人物以筋骨和秩序区别第一人物"
+      },
+      {
+        "seconds": 168.0,
+        "observation": "黑色极简秀场裙、品牌叠字",
+        "interpretation": "收为设计选择，不能只写买某品牌"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 13,
+    "file": "02342c15f4d93ee7603e38e984414680.mp4",
+    "topic": "工装的五种用法",
+    "creative_thesis": "同一类工装，经不同曲线、旧度和符号变成不同角色。",
+    "branch": "单品分支/操作",
+    "rules": [
+      "E3",
+      "E4",
+      "E9"
+    ],
+    "functional_chain": "态度总述→五种穿法分支→面料版型→风格符号→利用已有衣物",
+    "anchors": [
+      {
+        "seconds": 20.0,
+        "observation": "作者帽子出镜",
+        "interpretation": "明确交付穿法，承诺比情绪片更操作化"
+      },
+      {
+        "seconds": 32.0,
+        "observation": "紧白背心、宽工装裤的街拍",
+        "interpretation": "上紧下松的比例机制一眼可读"
+      },
+      {
+        "seconds": 48.0,
+        "observation": "短结构上衣、硬挺工装裙秀场",
+        "interpretation": "说明面料撑形，不能只凭颜色选图"
+      },
+      {
+        "seconds": 70.0,
+        "observation": "艾薇儿背景与白描边人物拼贴",
+        "interpretation": "同一风格集群增强谱系辨认"
+      },
+      {
+        "seconds": 118.0,
+        "observation": "灰蓝大西装/工装造型人物",
+        "interpretation": "冷工业分支通过整套轮廓区别朋克"
+      },
+      {
+        "seconds": 158.0,
+        "observation": "黑宽外套、旧工装裤、平底鞋",
+        "interpretation": "日常分支把前面极端例子降回可穿"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 14,
+    "file": "cb95420baea9a7657de4de66fde033be.mp4",
+    "topic": "王菲与穿搭神韵",
+    "creative_thesis": "把模仿对象当感受力的线索，而不是待复制的同款。",
+    "branch": "人物/自我筛选",
+    "rules": [
+      "E3",
+      "E6",
+      "E10"
+    ],
+    "functional_chain": "不像自己→人物自我意识→衣物矛盾→品牌与作品→身体筛选→注视筛选",
+    "anchors": [
+      {
+        "seconds": 0.0,
+        "observation": "王菲面部近景",
+        "interpretation": "用识别度强的人开出不像自己的问题"
+      },
+      {
+        "seconds": 42.0,
+        "observation": "作者出镜、引用观点文字",
+        "interpretation": "显式把穿搭提升到经历与世界关系"
+      },
+      {
+        "seconds": 54.0,
+        "observation": "黑白高领无袖人物照片",
+        "interpretation": "清醒/柔软的张力进入着装"
+      },
+      {
+        "seconds": 96.0,
+        "observation": "Ann Demeulemeester多图拼贴",
+        "interpretation": "品牌设计与人物舞台形象互证"
+      },
+      {
+        "seconds": 120.0,
+        "observation": "口罩、墨镜、黑衣的街头照",
+        "interpretation": "身体感受的讨论落在舒适与距离"
+      },
+      {
+        "seconds": 152.0,
+        "observation": "人物街拍与他人同行",
+        "interpretation": "谈他人注视时仍保留不费力的生活场景"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 15,
+    "file": "475c8513d0be158516e30aec82bf4d08.mp4",
+    "topic": "无所谓与Kate Moss",
+    "creative_thesis": "正式骨架中露出一点凌乱，人物才不只是职业样板。",
+    "branch": "情绪人物",
+    "rules": [
+      "E1",
+      "E3",
+      "E4",
+      "E6"
+    ],
+    "functional_chain": "挑衅命名→重新定义→人物态度→正式/随性→极简设计→边界与勇气",
+    "anchors": [
+      {
+        "seconds": 30.0,
+        "observation": "白色无袖修身人物侧身",
+        "interpretation": "无所谓不等于完全无形"
+      },
+      {
+        "seconds": 66.0,
+        "observation": "黑背心、短裤、珠链与包的动态黑白街拍",
+        "interpretation": "松散行为与精细配饰同在"
+      },
+      {
+        "seconds": 94.0,
+        "observation": "作者出镜强调舒适与瑕疵",
+        "interpretation": "由案例切回创作判断"
+      },
+      {
+        "seconds": 116.0,
+        "observation": "吊带裙秀场双画面对照",
+        "interpretation": "以具体设计解释睡衣外穿"
+      },
+      {
+        "seconds": 130.0,
+        "observation": "白色不对称肩部裙装走秀",
+        "interpretation": "一句机制配能看见肩线的图"
+      },
+      {
+        "seconds": 146.0,
+        "observation": "夜间黑衣、手拎鞋等随意生活状态",
+        "interpretation": "把在意/边界收束到人，而非新品"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 16,
+    "file": "72537da72fae26aa81758f98bbdab65f.mp4",
+    "topic": "Loli与雌雄莫辨的张力",
+    "creative_thesis": "不被单一编码锁住的人物，可以在服饰中同时容纳力量与柔软。",
+    "branch": "人物/概念递进",
+    "rules": [
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "functional_chain": "吸引还是成为→矛盾信号→穿法→行为活动空间→骨架与权威",
+    "anchors": [
+      {
+        "seconds": 30.0,
+        "observation": "黑色正装人物交谈、微低头",
+        "interpretation": "关系与动作先承载双重信号；不据穿着判断性取向"
+      },
+      {
+        "seconds": 66.0,
+        "observation": "宽西装、衬衫、领带秀场",
+        "interpretation": "正式标记的具体穿法"
+      },
+      {
+        "seconds": 88.0,
+        "observation": "拉链户外上衣、整齐头发、斜挎包",
+        "interpretation": "休闲加正式的不同实现"
+      },
+      {
+        "seconds": 108.0,
+        "observation": "沙发上双人随意坐姿",
+        "interpretation": "穿着影响行为的讨论有姿态例子"
+      },
+      {
+        "seconds": 114.0,
+        "observation": "宽大T恤、伸开手臂、微笑",
+        "interpretation": "活动余量在身体里可见"
+      },
+      {
+        "seconds": 158.0,
+        "observation": "白背心、牛仔、帽子人物侧身",
+        "interpretation": "讨论主流优雅/性感编码时给出熟悉形象，后文再转骨架"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 17,
+    "file": "5af912033542a161d8475d07f973992b.mp4",
+    "topic": "Heroin chic的边界批评",
+    "creative_thesis": "能创造新的美学形式，不等于应该把真实伤害当成模仿目标。",
+    "branch": "批评/史论",
+    "rules": [
+      "E8",
+      "E10"
+    ],
+    "functional_chain": "回看自己系列→承认滑坡→历史材料→文化推手→形式价值与伦理区分",
+    "anchors": [
+      {
+        "seconds": 16.5,
+        "observation": "此前系列视频小卡片",
+        "interpretation": "把批评连回自身创作，建立系列内反思"
+      },
+      {
+        "seconds": 32.0,
+        "observation": "报刊标题、旧闻版式",
+        "interpretation": "提供历史材料外观；具体统计仍需独立核查"
+      },
+      {
+        "seconds": 62.0,
+        "observation": "Nan Goldin相关肖像",
+        "interpretation": "摄影作为亚文化进入大众的入口"
+      },
+      {
+        "seconds": 100.0,
+        "observation": "人物时尚影像近景",
+        "interpretation": "权力/资本讨论以时尚生产者影像承接"
+      },
+      {
+        "seconds": 128.0,
+        "observation": "乐队人物、唱片封面叠图",
+        "interpretation": "用文化集群说明传播推手，非穿法教学"
+      },
+      {
+        "seconds": 174.0,
+        "observation": "模特影像、时髦的药字幕",
+        "interpretation": "在视觉吸引仍在时提出价值反转"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 18,
+    "file": "4747dfd7cc404163286c153b288315e1.mp4",
+    "topic": "文艺气质与大衣语言",
+    "creative_thesis": "不只衣物品类，衣服怎样被身体使用，才产生不同情绪。",
+    "branch": "概念→设计→生活",
+    "rules": [
+      "E2",
+      "E3",
+      "E4",
+      "E5",
+      "E9"
+    ],
+    "functional_chain": "争议关系→复杂性→腰带/落肩→同品类反例→秀场→日常活动与包",
+    "anchors": [
+      {
+        "seconds": 34.0,
+        "observation": "金敏喜深色外套、围巾、风中乱发",
+        "interpretation": "复杂性由人脸、衣物和风共同表达"
+      },
+      {
+        "seconds": 56.0,
+        "observation": "深色束腰外套人物走路",
+        "interpretation": "腰部收束与下沉肩部可被分开讨论"
+      },
+      {
+        "seconds": 78.0,
+        "observation": "深长外套、下摆/飘带、行走人物",
+        "interpretation": "动态下摆用于比较衣服的使用状态"
+      },
+      {
+        "seconds": 94.0,
+        "observation": "高领深色长衣多图拼贴",
+        "interpretation": "不同领/肩/包裹形式构成设计分类"
+      },
+      {
+        "seconds": 126.0,
+        "observation": "浅色松垂褶皱层叠秀场衣物",
+        "interpretation": "用纤维、松散、解构把抽象诗意变成形态"
+      },
+      {
+        "seconds": 176.0,
+        "observation": "收束裤脚与走秀叠图",
+        "interpretation": "把诗意回收到行走效率和日常下装"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 19,
+    "file": "06b5d6beef1eacb718e05fea42804186.mp4",
+    "topic": "东京两种亚文化反应",
+    "creative_thesis": "同样的环境压力，既能走向低物欲，也能走向强表达。",
+    "branch": "城市/双分支",
+    "rules": [
+      "E1",
+      "E3",
+      "E5",
+      "E7"
+    ],
+    "functional_chain": "时代处境→低精力下北泽→旧物链接→原宿高强度→表达与失语→当下边界",
+    "anchors": [
+      {
+        "seconds": 26.0,
+        "observation": "原宿涩谷高彩人物小图、黑底",
+        "interpretation": "先区分情绪强度而非统一滤镜"
+      },
+      {
+        "seconds": 70.0,
+        "observation": "黑底章节：从旧物寻找确定链接",
+        "interpretation": "章节让论证换方向可见"
+      },
+      {
+        "seconds": 82.0,
+        "observation": "旧街景里两人、素色裙裤",
+        "interpretation": "穿爱好与寻找同类的关系型素材"
+      },
+      {
+        "seconds": 96.0,
+        "observation": "黑底章节：对身份品牌祛魅",
+        "interpretation": "第二个社会含义显式转段"
+      },
+      {
+        "seconds": 138.0,
+        "observation": "暗化作者画面、章节标题",
+        "interpretation": "从压低物欲换到夺回快乐的主张"
+      },
+      {
+        "seconds": 164.0,
+        "observation": "旧风格街拍、宽裤与配饰",
+        "interpretation": "个性表达放回具体身体，不只宏观口号"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 20,
+    "file": "def9c7979411aab824d02314528a0935.mp4",
+    "topic": "伪禁欲与颈部造型",
+    "creative_thesis": "把包裹和松懈安排在局部，制造同一套衣服内部的欲望张力。",
+    "branch": "趋势/设计机制",
+    "rules": [
+      "E3",
+      "E4",
+      "E8",
+      "E9"
+    ],
+    "functional_chain": "性格命题→欲望矛盾→围巾/领口→颈部包裹与开合→黑白/冷色→材质",
+    "anchors": [
+      {
+        "seconds": 34.0,
+        "observation": "作者画面上下分割、伪禁欲元年大字",
+        "interpretation": "核心命名用排版独立出来"
+      },
+      {
+        "seconds": 48.0,
+        "observation": "灰裙外套、宽软围巾、街头步态",
+        "interpretation": "面料轻薄与包裹同时可见"
+      },
+      {
+        "seconds": 96.0,
+        "observation": "普通外套内开领白衬衫",
+        "interpretation": "日常领口方案兑现抽象概念"
+      },
+      {
+        "seconds": 124.0,
+        "observation": "黑裙、贴颈细围巾、宴会近景",
+        "interpretation": "细线与厚重外套/身体形成关系，非单件陈列"
+      },
+      {
+        "seconds": 150.0,
+        "observation": "宫廷领口、围脖秀场双图",
+        "interpretation": "头颈姿态的设计依据以近肩胸区域展示"
+      },
+      {
+        "seconds": 198.0,
+        "observation": "白上衣、浅裙、街头行走",
+        "interpretation": "颜色与人物情绪绑定；不是仅调低饱和"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  },
+  {
+    "video_id": 21,
+    "file": "935dd2c744351e20334f8a977706fb21.mp4",
+    "topic": "喜怒无常与Mia Goth",
+    "creative_thesis": "温顺外观里保留不被掌控的力量，人物反差比全身强硬更有张力。",
+    "branch": "情绪人物/反差",
+    "rules": [
+      "E1",
+      "E2",
+      "E3",
+      "E4",
+      "E6"
+    ],
+    "functional_chain": "强情绪命名→纠偏→角色处境→材质/版型→深色例子→反自毁收束",
+    "anchors": [
+      {
+        "seconds": 30.0,
+        "observation": "影视素材上下重复",
+        "interpretation": "用表演状态而非单品开启人物解释"
+      },
+      {
+        "seconds": 74.0,
+        "observation": "晚礼服人物回头的影视画面",
+        "interpretation": "防御反击的文本与克制外观并置，不是动作演示"
+      },
+      {
+        "seconds": 98.0,
+        "observation": "光洁黑色衣料、浅色人像近景",
+        "interpretation": "易碎/脆弱感是视觉解释，不是诊断本人"
+      },
+      {
+        "seconds": 116.0,
+        "observation": "黑西装人物、箭头指肩腰袖",
+        "interpretation": "版型收放的技术段用标注指导视线"
+      },
+      {
+        "seconds": 164.0,
+        "observation": "黑裙、银色网状领部、红毯人物",
+        "interpretation": "深色与奇异材质形成复杂性"
+      },
+      {
+        "seconds": 184.0,
+        "observation": "作者出镜、向上念力/主动魄力文字",
+        "interpretation": "终点从自毁表象转回主体性"
+      }
+    ],
+    "audio_status": "unreviewed",
+    "retention_status": "hypothesis_not_measured"
+  }
+]
