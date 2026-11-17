@@ -1,0 +1,721 @@
+{
+  "title": "为什么黑色大衣有时清冷，有时沉重？",
+  "account": "野桃",
+  "version": "v0.3",
+  "status": "原创完整制作示例；非已制成视频，未找齐素材，未选歌，未试听",
+  "fps": 30,
+  "estimated_duration_s": 156.333,
+  "spoken_character_count": 573,
+  "timing_basis": "4.2有效字/秒的排练起点，加停顿与阅读时间；录音后重排，非参考作者实测",
+  "voiceover": "同一件黑色大衣，为什么有时清冷，有时却显得沉重？先别急着换衣服。我们用同一套搭配，只改三个位置。第一处，是脸和领口的关系。高领、厚围巾和垂下的头发挤在一起时，深色容易连成一整块。你先看到的，可能就是这块面积，而不是人。把头发移到一侧，围巾松一点，给颈部留出一条边界。再看前后对比。衣服没有换，轮廓却有了停顿。第二处，看面料怎么接在一起。同样是黑色，羊毛、针织和棉布的表面也不一样。如果两件都很厚、很蓬松，量感会重复；换一件更平整的内搭，再观察。先看全身，再靠近看织物，不要只凭远景猜材质。这里也不是越亮越好。光泽太强，或者布料贴得太紧，都可能改变你想要的安静感。我们要做的是区分层次，而不是堆更多细节。第三处，让大衣进入真实动作：走几步、坐下、把包拿起来。如果你一直要拉袖口、拽下摆，先检查尺码和活动空间。松弛感至少应该允许身体自然行动，而不只在照片里成立。最后，再看一眼包和鞋。它们可以延续整套的安静，也可以成为一个重点，但不必同时争抢注意。想做对比，就保持同一机位和光线，一次只换一个配件。这样你才知道，究竟是哪一处改变了整体。下次穿黑色大衣，先不问自己像不像某种风格。先看颈部有没有边界，面料有没有层次，动作有没有余地。剩下的就交给你自己的生活。去走路、坐车、见朋友，看看这件衣服能不能陪你自在地过完一天。今天的三步可以留下：整理边界，区分材质，检查活动空间。不要同时改变全部搭配。先试一个位置，再拍同条件的对比。好看的判断，才会慢慢变成你自己的经验。我是野桃。下次选衣服，我们继续从看得见的细节开始。",
+  "assets": [
+    {
+      "asset_id": "A01",
+      "role": "状态/对照",
+      "subject": "同一位模特同一件黑色大衣，拍两个颈部造型",
+      "required_evidence": "同机位中景，领口和头发清楚；只改颈部处理",
+      "query_zh": "黑色大衣 高领 围巾 头发 领口 对比",
+      "query_en": "black coat neckline scarf hair comparison",
+      "source_plan": "自摄优先；若无法控制变量，明确为示意图",
+      "fallback": "找不到则用自己衣橱的深色外套，随之改口播",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A02",
+      "role": "局部证据",
+      "subject": "高领、厚围巾、发丝重叠",
+      "required_evidence": "颈部特写，能分辨三种物体，不用大景代替",
+      "query_zh": "围巾 高领 头发 领口 特写",
+      "query_en": "scarf turtleneck hair neckline close up",
+      "source_plan": "自摄或已获许可素材",
+      "fallback": "用手把衣物摆在台面示意，标示意",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A03",
+      "role": "操作",
+      "subject": "移开发丝、松开围巾",
+      "required_evidence": "固定机位完整拍出动作起止，不用不同衣服拼成前后",
+      "query_zh": "整理围巾 露出领口 动作",
+      "query_en": "adjust scarf neckline demonstration",
+      "source_plan": "自摄",
+      "fallback": "只拍颈部以下，旁白相应调整",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A04",
+      "role": "材质证据",
+      "subject": "黑色羊毛、针织、棉布",
+      "required_evidence": "同一自然光，近景能看到纤维和表面，旁注材质",
+      "query_zh": "黑色 羊毛 针织 棉布 面料 特写",
+      "query_en": "black wool knit cotton fabric close up",
+      "source_plan": "自摄/明确材质的授权素材",
+      "fallback": "材质不明时改说表面视觉差异，不命名纤维",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A05",
+      "role": "前后对照",
+      "subject": "同一大衣搭厚内搭和较平整内搭",
+      "required_evidence": "保持光线人物和机位，保证差异清楚",
+      "query_zh": "黑色大衣 内搭 厚薄 对比",
+      "query_en": "black coat layering bulky versus smooth",
+      "source_plan": "自摄",
+      "fallback": "无可比素材则删因果口吻，只作搭配示例",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A06",
+      "role": "反例",
+      "subject": "过强光泽或过度贴身的内搭示例",
+      "required_evidence": "只演示视觉变化，不评价人物身材",
+      "query_zh": "黑色大衣 光泽 内搭 对比",
+      "query_en": "black coat shiny top layering detail",
+      "source_plan": "自摄优先",
+      "fallback": "用布样放在大衣旁作材质对照",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A07",
+      "role": "动作证据",
+      "subject": "穿大衣行走、坐下、拿包",
+      "required_evidence": "连续动作，手脚及衣物活动范围可见，留现场声备用",
+      "query_zh": "穿大衣 坐下 行走 拿包 动作",
+      "query_en": "coat walking sitting picking up bag",
+      "source_plan": "自摄/有许可视频",
+      "fallback": "自摄无脸半身，替代远景街拍",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A08",
+      "role": "检查证据",
+      "subject": "拉袖口和拽下摆的动作",
+      "required_evidence": "演员演示标为示例，不把别人动作当不合身诊断",
+      "query_zh": "大衣 袖长 下摆 活动空间 示范",
+      "query_en": "coat sleeve hem fit movement demonstration",
+      "source_plan": "自摄",
+      "fallback": "改成衣物平铺尺寸检查",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A09",
+      "role": "配件对照",
+      "subject": "同一套衣服只换包，再只换鞋",
+      "required_evidence": "三段等景别，对比时不同时改两件",
+      "query_zh": "黑色大衣 换包 换鞋 同套搭配",
+      "query_en": "black coat bag shoe styling comparison",
+      "source_plan": "自摄",
+      "fallback": "手头仅有一只包则只做一个变量",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A10",
+      "role": "总结卡",
+      "subject": "三步：边界、材质、活动空间",
+      "required_evidence": "原创文字卡与本人图像，手机能读清",
+      "query_zh": "不需要外部搜索",
+      "query_en": "no external search required",
+      "source_plan": "原创制作",
+      "fallback": "用三帧证据图加短标签",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    },
+    {
+      "asset_id": "A11",
+      "role": "生活情境",
+      "subject": "走路、坐车、与朋友见面",
+      "required_evidence": "连续日常动作，不拍他人可识别隐私，环境不掩盖衣物",
+      "query_zh": "黑色大衣 日常 行走 通勤",
+      "query_en": "black coat everyday walking commute",
+      "source_plan": "自摄/有许可素材",
+      "fallback": "在家门口或走廊自摄",
+      "actual_url": null,
+      "rights_status": "未取得素材，待核验"
+    }
+  ],
+  "shots": [
+    {
+      "shot_id": "S01",
+      "start_frame": 0,
+      "end_frame": 75,
+      "start_s": 0.0,
+      "end_s": 2.5,
+      "voiceover": "同一件黑色大衣，",
+      "asset_ids": [
+        "A01"
+      ],
+      "function": "钩子",
+      "effect_id": "E03",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同机位中景，领口和头发清楚；只改颈部处理",
+      "cut_reason": "任务从上一段改变为钩子",
+      "subtitle": "同一件黑色大衣，",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S02",
+      "start_frame": 75,
+      "end_frame": 187,
+      "start_s": 2.5,
+      "end_s": 6.233,
+      "voiceover": "为什么有时清冷，有时却显得沉重？",
+      "asset_ids": [
+        "A01"
+      ],
+      "function": "钩子",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同机位中景，领口和头发清楚；只改颈部处理",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "为什么有时清冷，有时却显得沉重？",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S03",
+      "start_frame": 187,
+      "end_frame": 349,
+      "start_s": 6.233,
+      "end_s": 11.633,
+      "voiceover": "先别急着换衣服。我们用同一套搭配，只改三个位置。",
+      "asset_ids": [
+        "A01",
+        "A10"
+      ],
+      "function": "钩子",
+      "effect_id": "E06",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同机位中景，领口和头发清楚；只改颈部处理; 原创文字卡与本人图像，手机能读清",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "先别急着换衣服。我们用同一套搭配，只改三个位置。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S04",
+      "start_frame": 349,
+      "end_frame": 440,
+      "start_s": 11.633,
+      "end_s": 14.667,
+      "voiceover": "第一处，是脸和领口的关系。",
+      "asset_ids": [
+        "A02"
+      ],
+      "function": "颈部机制",
+      "effect_id": "E02",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "颈部特写，能分辨三种物体，不用大景代替",
+      "cut_reason": "任务从上一段改变为颈部机制",
+      "subtitle": "第一处，是脸和领口的关系。",
+      "emphasis": "领口边界",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S05",
+      "start_frame": 440,
+      "end_frame": 631,
+      "start_s": 14.667,
+      "end_s": 21.033,
+      "voiceover": "高领、厚围巾和垂下的头发挤在一起时，深色容易连成一整块。",
+      "asset_ids": [
+        "A02"
+      ],
+      "function": "颈部机制",
+      "effect_id": "E02",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "颈部特写，能分辨三种物体，不用大景代替",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "高领、厚围巾和垂下的头发挤在一起时，深色容易连成一整块。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S06",
+      "start_frame": 631,
+      "end_frame": 764,
+      "start_s": 21.033,
+      "end_s": 25.467,
+      "voiceover": "你先看到的，可能就是这块面积，而不是人。",
+      "asset_ids": [
+        "A02"
+      ],
+      "function": "颈部机制",
+      "effect_id": "E10",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "颈部特写，能分辨三种物体，不用大景代替",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "你先看到的，可能就是这块面积，而不是人。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S07",
+      "start_frame": 764,
+      "end_frame": 926,
+      "start_s": 25.467,
+      "end_s": 30.867,
+      "voiceover": "把头发移到一侧，围巾松一点，给颈部留出一条边界。",
+      "asset_ids": [
+        "A03"
+      ],
+      "function": "颈部机制",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "固定机位完整拍出动作起止，不用不同衣服拼成前后",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "把头发移到一侧，围巾松一点，给颈部留出一条边界。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S08",
+      "start_frame": 926,
+      "end_frame": 1112,
+      "start_s": 30.867,
+      "end_s": 37.067,
+      "voiceover": "再看前后对比。衣服没有换，轮廓却有了停顿。",
+      "asset_ids": [
+        "A01"
+      ],
+      "function": "颈部机制",
+      "effect_id": "E03",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同机位中景，领口和头发清楚；只改颈部处理",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "再看前后对比。衣服没有换，轮廓却有了停顿。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S09",
+      "start_frame": 1112,
+      "end_frame": 1210,
+      "start_s": 37.067,
+      "end_s": 40.333,
+      "voiceover": "第二处，看面料怎么接在一起。",
+      "asset_ids": [
+        "A04"
+      ],
+      "function": "材质机制",
+      "effect_id": "E06",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同一自然光，近景能看到纤维和表面，旁注材质",
+      "cut_reason": "任务从上一段改变为材质机制",
+      "subtitle": "第二处，看面料怎么接在一起。",
+      "emphasis": "材质层次",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S10",
+      "start_frame": 1210,
+      "end_frame": 1358,
+      "start_s": 40.333,
+      "end_s": 45.267,
+      "voiceover": "同样是黑色，羊毛、针织和棉布的表面也不一样。",
+      "asset_ids": [
+        "A04"
+      ],
+      "function": "材质机制",
+      "effect_id": "E02",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同一自然光，近景能看到纤维和表面，旁注材质",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "同样是黑色，羊毛、针织和棉布的表面也不一样。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S11",
+      "start_frame": 1358,
+      "end_frame": 1563,
+      "start_s": 45.267,
+      "end_s": 52.1,
+      "voiceover": "如果两件都很厚、很蓬松，量感会重复；换一件更平整的内搭，再观察。",
+      "asset_ids": [
+        "A05"
+      ],
+      "function": "材质机制",
+      "effect_id": "E03",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "保持光线人物和机位，保证差异清楚",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "如果两件都很厚、很蓬松，量感会重复；换一件更平整的内搭，再观察。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S12",
+      "start_frame": 1563,
+      "end_frame": 1756,
+      "start_s": 52.1,
+      "end_s": 58.533,
+      "voiceover": "先看全身，再靠近看织物，不要只凭远景猜材质。",
+      "asset_ids": [
+        "A04",
+        "A05"
+      ],
+      "function": "材质机制",
+      "effect_id": "E02",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同一自然光，近景能看到纤维和表面，旁注材质; 保持光线人物和机位，保证差异清楚",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "先看全身，再靠近看织物，不要只凭远景猜材质。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S13",
+      "start_frame": 1756,
+      "end_frame": 1832,
+      "start_s": 58.533,
+      "end_s": 61.067,
+      "voiceover": "这里也不是越亮越好。",
+      "asset_ids": [
+        "A06"
+      ],
+      "function": "材质机制",
+      "effect_id": "E10",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "只演示视觉变化，不评价人物身材",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "这里也不是越亮越好。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S14",
+      "start_frame": 1832,
+      "end_frame": 2015,
+      "start_s": 61.067,
+      "end_s": 67.167,
+      "voiceover": "光泽太强，或者布料贴得太紧，都可能改变你想要的安静感。",
+      "asset_ids": [
+        "A06"
+      ],
+      "function": "材质机制",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "只演示视觉变化，不评价人物身材",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "光泽太强，或者布料贴得太紧，都可能改变你想要的安静感。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S15",
+      "start_frame": 2015,
+      "end_frame": 2156,
+      "start_s": 67.167,
+      "end_s": 71.867,
+      "voiceover": "我们要做的是区分层次，而不是堆更多细节。",
+      "asset_ids": [
+        "A05"
+      ],
+      "function": "材质机制",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "保持光线人物和机位，保证差异清楚",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "我们要做的是区分层次，而不是堆更多细节。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S16",
+      "start_frame": 2156,
+      "end_frame": 2325,
+      "start_s": 71.867,
+      "end_s": 77.5,
+      "voiceover": "第三处，让大衣进入真实动作：走几步、坐下、把包拿起来。",
+      "asset_ids": [
+        "A07"
+      ],
+      "function": "动作机制",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "连续动作，手脚及衣物活动范围可见，留现场声备用",
+      "cut_reason": "任务从上一段改变为动作机制",
+      "subtitle": "第三处，让大衣进入真实动作：走几步、坐下、把包拿起来。",
+      "emphasis": "活动空间",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S17",
+      "start_frame": 2325,
+      "end_frame": 2494,
+      "start_s": 77.5,
+      "end_s": 83.133,
+      "voiceover": "如果你一直要拉袖口、拽下摆，先检查尺码和活动空间。",
+      "asset_ids": [
+        "A08"
+      ],
+      "function": "动作机制",
+      "effect_id": "E02",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "演员演示标为示例，不把别人动作当不合身诊断",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "如果你一直要拉袖口、拽下摆，先检查尺码和活动空间。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S18",
+      "start_frame": 2494,
+      "end_frame": 2677,
+      "start_s": 83.133,
+      "end_s": 89.233,
+      "voiceover": "松弛感至少应该允许身体自然行动，而不只在照片里成立。",
+      "asset_ids": [
+        "A07"
+      ],
+      "function": "动作机制",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "连续动作，手脚及衣物活动范围可见，留现场声备用",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "松弛感至少应该允许身体自然行动，而不只在照片里成立。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S19",
+      "start_frame": 2677,
+      "end_frame": 2753,
+      "start_s": 89.233,
+      "end_s": 91.767,
+      "voiceover": "最后，再看一眼包和鞋。",
+      "asset_ids": [
+        "A09"
+      ],
+      "function": "配件对照",
+      "effect_id": "E10",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "三段等景别，对比时不同时改两件",
+      "cut_reason": "任务从上一段改变为配件对照",
+      "subtitle": "最后，再看一眼包和鞋。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S20",
+      "start_frame": 2753,
+      "end_frame": 2972,
+      "start_s": 91.767,
+      "end_s": 99.067,
+      "voiceover": "它们可以延续整套的安静，也可以成为一个重点，但不必同时争抢注意。",
+      "asset_ids": [
+        "A09"
+      ],
+      "function": "配件对照",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "三段等景别，对比时不同时改两件",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "它们可以延续整套的安静，也可以成为一个重点，但不必同时争抢注意。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S21",
+      "start_frame": 2972,
+      "end_frame": 3186,
+      "start_s": 99.067,
+      "end_s": 106.2,
+      "voiceover": "想做对比，就保持同一机位和光线，一次只换一个配件。",
+      "asset_ids": [
+        "A09"
+      ],
+      "function": "配件对照",
+      "effect_id": "E03",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "三段等景别，对比时不同时改两件",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "想做对比，就保持同一机位和光线，一次只换一个配件。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S22",
+      "start_frame": 3186,
+      "end_frame": 3319,
+      "start_s": 106.2,
+      "end_s": 110.633,
+      "voiceover": "这样你才知道，究竟是哪一处改变了整体。",
+      "asset_ids": [
+        "A09"
+      ],
+      "function": "配件对照",
+      "effect_id": "E10",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "三段等景别，对比时不同时改两件",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "这样你才知道，究竟是哪一处改变了整体。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S23",
+      "start_frame": 3319,
+      "end_frame": 3467,
+      "start_s": 110.633,
+      "end_s": 115.567,
+      "voiceover": "下次穿黑色大衣，先不问自己像不像某种风格。",
+      "asset_ids": [
+        "A01"
+      ],
+      "function": "落地收束",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同机位中景，领口和头发清楚；只改颈部处理",
+      "cut_reason": "任务从上一段改变为落地收束",
+      "subtitle": "下次穿黑色大衣，先不问自己像不像某种风格。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S24",
+      "start_frame": 3467,
+      "end_frame": 3643,
+      "start_s": 115.567,
+      "end_s": 121.433,
+      "voiceover": "先看颈部有没有边界，面料有没有层次，动作有没有余地。",
+      "asset_ids": [
+        "A10"
+      ],
+      "function": "落地收束",
+      "effect_id": "E06",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "原创文字卡与本人图像，手机能读清",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "先看颈部有没有边界，面料有没有层次，动作有没有余地。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S25",
+      "start_frame": 3643,
+      "end_frame": 3741,
+      "start_s": 121.433,
+      "end_s": 124.7,
+      "voiceover": "剩下的就交给你自己的生活。",
+      "asset_ids": [
+        "A11"
+      ],
+      "function": "落地收束",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "连续日常动作，不拍他人可识别隐私，环境不掩盖衣物",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "剩下的就交给你自己的生活。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S26",
+      "start_frame": 3741,
+      "end_frame": 3939,
+      "start_s": 124.7,
+      "end_s": 131.3,
+      "voiceover": "去走路、坐车、见朋友，看看这件衣服能不能陪你自在地过完一天。",
+      "asset_ids": [
+        "A11"
+      ],
+      "function": "落地收束",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "连续日常动作，不拍他人可识别隐私，环境不掩盖衣物",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "去走路、坐车、见朋友，看看这件衣服能不能陪你自在地过完一天。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S27",
+      "start_frame": 3939,
+      "end_frame": 4160,
+      "start_s": 131.3,
+      "end_s": 138.667,
+      "voiceover": "今天的三步可以留下：整理边界，区分材质，检查活动空间。",
+      "asset_ids": [
+        "A10"
+      ],
+      "function": "落地收束",
+      "effect_id": "E06",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "原创文字卡与本人图像，手机能读清",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "今天的三步可以留下：整理边界，区分材质，检查活动空间。",
+      "emphasis": "三步检查",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S28",
+      "start_frame": 4160,
+      "end_frame": 4343,
+      "start_s": 138.667,
+      "end_s": 144.767,
+      "voiceover": "不要同时改变全部搭配。先试一个位置，再拍同条件的对比。",
+      "asset_ids": [
+        "A01",
+        "A03"
+      ],
+      "function": "落地收束",
+      "effect_id": "E03",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "同机位中景，领口和头发清楚；只改颈部处理; 固定机位完整拍出动作起止，不用不同衣服拼成前后",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "不要同时改变全部搭配。先试一个位置，再拍同条件的对比。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S29",
+      "start_frame": 4343,
+      "end_frame": 4476,
+      "start_s": 144.767,
+      "end_s": 149.2,
+      "voiceover": "好看的判断，才会慢慢变成你自己的经验。",
+      "asset_ids": [
+        "A11"
+      ],
+      "function": "落地收束",
+      "effect_id": "E01",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "连续日常动作，不拍他人可识别隐私，环境不掩盖衣物",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "好看的判断，才会慢慢变成你自己的经验。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    },
+    {
+      "shot_id": "S30",
+      "start_frame": 4476,
+      "end_frame": 4690,
+      "start_s": 149.2,
+      "end_s": 156.333,
+      "voiceover": "我是野桃。下次选衣服，我们继续从看得见的细节开始。",
+      "asset_ids": [
+        "A10"
+      ],
+      "function": "落地收束",
+      "effect_id": "E06",
+      "source_in_out": "素材未拍/未取得，待填实际入出点",
+      "visual_instruction": "原创文字卡与本人图像，手机能读清",
+      "cut_reason": "用对应证据替换或推进到该句细节；若没有新增信息可留图",
+      "subtitle": "我是野桃。下次选衣服，我们继续从看得见的细节开始。",
+      "emphasis": "",
+      "audio_action": "A1口播；A3音乐为选曲后待混音，未标实际拍点"
+    }
+  ],
+  "music_status": "未选曲，语义占位"
+}

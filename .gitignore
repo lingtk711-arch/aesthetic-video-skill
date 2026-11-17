@@ -1,8 +1,8 @@
-# Keep reference media, machine drafts, models and credentials local
 media/
 attachments/
 work/
 analysis/*-evidence/
+analysis/ocr-machine-index/
 *.mp4
 *.mov
 *.mkv

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "file": "33f457cc698d1a4a2614f3531cadab52.mp4",
+    "duration": 199.063991,
+    "width": 720,
+    "height": 1280,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 2,
+    "file": "a9e49444c957848ca19bc59c17025c35.mp4",
+    "duration": 126.866667,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 3,
+    "file": "d0cebef7a9cc89f292f11050d0b8f0e1.mp4",
+    "duration": 170.968005,
+    "width": 720,
+    "height": 1280,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 4,
+    "file": "4aac4bf62c1899cac40159ed00673aa4.mp4",
+    "duration": 123.578322,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 5,
+    "file": "9f1059c013b5cb24f0d4ff283a2e84d3.mp4",
+    "duration": 137.716735,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 6,
+    "file": "7df837fb7e582264210f208e4f23c958.mp4",
+    "duration": 156.133333,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 7,
+    "file": "96810f83001dc2cdb1a10dd1ca3ae5eb.mp4",
+    "duration": 162.266667,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 8,
+    "file": "6203694cb8ccc818de06623f8b47bb8b.mp4",
+    "duration": 205.666667,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  },
+  {
+    "id": 9,
+    "file": "e990f867adf661c05847828a3e786f66.mp4",
+    "duration": 163.327256,
+    "width": 544,
+    "height": 960,
+    "fps": "30/1",
+    "audio": true
+  }
+]
